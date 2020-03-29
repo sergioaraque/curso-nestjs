@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8893e17a-96e1-4cf4-989a-5ea10ab54d8d" name="Default Changelist" comment="Commit de la tarea final">
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/nest-cli.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/api.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/libro/libro.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/libro/libro.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/libro/libro.schema.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/libro/libro.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/api/libro/libro.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/app.controller.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/app.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/app.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/libro.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/libro.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/test/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/test/jest-e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/tsconfig.build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicionest2/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sergioaraque" />
+        <option value="Sergio Araque" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ejercicionest2" />
+  </component>
+  <component name="ProjectId" id="1ZnYVvjyW68q80t8xiKnrbGOliS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\Sergio\WebstormProjects\ejercicionest2\ejercicionest2\node_modules\typescript\lib" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8893e17a-96e1-4cf4-989a-5ea10ab54d8d" name="Default Changelist" comment="" />
+      <created>1585476352143</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585476352143</updated>
+      <workItem from="1585476353683" duration="321000" />
+      <workItem from="1585501275610" duration="6896000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit de la tarea final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit de la tarea final" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="870" y="62" key="CommitChangelistDialog2" timestamp="1585516664055">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="870" y="62" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1585516664055" />
+    <state x="328" y="77" key="DiffContextDialog" timestamp="1585516575210">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="328" y="77" key="DiffContextDialog/0.0.1707.920@0.0.1707.920" timestamp="1585516575210" />
+    <state x="947" y="100" width="667" height="727" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1585504177087">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="947" y="100" width="667" height="727" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1707.920@0.0.1707.920" timestamp="1585504177087" />
+    <state x="986" y="219" width="588" height="488" key="find.popup" timestamp="1585503497266">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="986" y="219" width="588" height="488" key="find.popup/0.0.1707.920@0.0.1707.920" timestamp="1585503497266" />
+  </component>
+</project>
